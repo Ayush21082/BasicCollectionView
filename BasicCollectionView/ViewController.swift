@@ -34,7 +34,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         
         cell.myLabel.text = countries[indexPath.item]
         cell.myLabel.textColor = .white
-        cell.backgroundColor = UIColor.red // make cell more visible in our example project
+        cell.backgroundColor = UIColor.cyan // make cell more visible in our example project
         
         return cell
     }
