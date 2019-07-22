@@ -1,2 +1,2 @@
 # BasicCollectionView
-A basic project to know how to Implement UICollectionView in Swift
+A Basic Project to know "How to Implement UICollectionView in Swift"
